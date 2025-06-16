@@ -65,11 +65,6 @@ Este proyecto ha sido una experiencia enriquecedora que ha permitido aplicar con
 ## 📁 Archivos
 
 - `memoriaIA1.pdf`: Documento explicativo de la práctica y el código desarrollado.
-- `main.py`: (opcional) Código fuente si decides subirlo.
+- `main.py`: Código fuente
 
----
-
-## 📬 Contacto
-
-Para cualquier duda o sugerencia, no dudes en abrir un issue o contactar a los autores.
 
