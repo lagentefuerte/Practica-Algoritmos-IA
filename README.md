@@ -3,7 +3,7 @@
 This repository contains the implementation of two fundamental algorithms in the field of Artificial Intelligence: **A\*** and **Minimax**, developed as part of the Artificial Intelligence course in the Bachelor's Degree in Cybersecurity Engineering.
 
 📅 May 2024  
-👨‍💻 Authors: Martín Díaz Benito Álvarez and Juan Carlos Sastre García
+👨‍💻 Authors: Martín Díaz Benito and Juan Carlos Sastre
 
 ---
 
